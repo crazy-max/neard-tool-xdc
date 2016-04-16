@@ -14,6 +14,8 @@ Directory structure example :
  |  | [-] xdc 
  |  |  | [-] xdc1.0b3
  |  |     | neard.conf
+ |  |  | [-] xdc1.0b5
+ |  |     | neard.conf
 ```
 
 * Edit the `neard.conf` file and replace the key `xdcVersion` with the correct version.
@@ -26,6 +28,7 @@ Directory structure example :
 |                        | XDebugClient release date | Neard release | Download |
 | -----------------------|:-------------------------:|:-------------:|:--------:|
 | **XDebugClient 1.0b3** ![](https://raw.github.com/crazy-max/neard-tool-xdc/master/img/star-20160403.png) | 2007/04/30 | [r1](https://github.com/crazy-max/neard-tool-xdc/releases/tag/r1) | [neard-xdc-1.0b3-r1.7z](https://github.com/crazy-max/neard-tool-xdc/releases/download/r1/neard-xdc-1.0b3-r1.7z) |
+| **XDebugClient 1.0b5** | 2009/04/24 | [r2](https://github.com/crazy-max/neard-tool-xdc/releases/tag/r2) | [neard-xdc-1.0b5-r2.7z](https://github.com/crazy-max/neard-tool-xdc/releases/download/r2/neard-xdc-1.0b5-r1.7z) |
 
 ## Sources
 
