@@ -1,7 +1,5 @@
 # Changelog
 
-### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/toolXDebugClient#latest) before downloading.
-
 ## r2 (2016/04/16)
 
 * New bundle : 1.0b5
