@@ -6,5 +6,5 @@
 
 ## r1 (2016/04/16)
 
-* Init repo with XDebugClient bundle from [Neard](https://github.com/crazy-max/neard)
+* Init repo with XDebugClient bundle from [Neard](https://github.com/neard/neard)
 * Add Ant build
