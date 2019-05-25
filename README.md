@@ -5,7 +5,7 @@ This is a module of [Neard project](https://github.com/neard/neard) involving XD
 
 ## Documentation and downloads
 
-http://neard.io/modules/xdc
+https://neard.io/modules/xdc
 
 ## Issues
 
